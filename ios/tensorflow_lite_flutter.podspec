@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'tflite'
+  s.name             = 'tensorflow_lite_flutter'
   s.version          = '1.1.2'
   s.summary          = 'A Flutter plugin for accessing TensorFlow Lite.'
   s.description      = <<-DESC
